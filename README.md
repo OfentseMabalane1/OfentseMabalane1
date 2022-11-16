@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OfentseMabalane1
-- 👀 I’m interested in software engineering 
+- 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning C#
 
 
