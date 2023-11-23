@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @OfentseMabalane1
+- 👋 Hi, I’m @Ofentse
 - 👀 I’m interested in FullStack Web Development
 - 🌱 I’m currently learning C
 - 👩‍💻 Software engineering Student @ALX_Africa.
